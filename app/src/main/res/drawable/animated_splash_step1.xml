@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/image_splash_step0">
+
+    <target
+        android:animation="@animator/call_splash_first_orange_line"
+        android:name="first_orange_line"/>
+</animated-vector>

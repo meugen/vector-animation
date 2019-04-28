@@ -47,7 +47,7 @@
         android:fillAlpha="0.33365884"
         android:fillColor="#191919"
         android:fillType="evenOdd"
-        android:pathData="M317.209,1.227l69.225,-0.549l182.58,73.034l-49.147,21.691z"
+        android:pathData="M317.209,1.227l69.225,-0.549l0,0l-69.225,0.549z"
         android:strokeWidth="1"
         android:strokeAlpha="0.33365884"
         android:strokeColor="#00000000" />

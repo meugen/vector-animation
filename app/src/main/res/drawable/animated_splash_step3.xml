@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/image_splash_step2">
+
+    <target
+        android:animation="@animator/call_splash_second_gray_line"
+        android:name="second_gray_line"/>
+    <target
+        android:animation="@animator/call_splash_third_orange_line"
+        android:name="third_orange_line"/>
+</animated-vector>

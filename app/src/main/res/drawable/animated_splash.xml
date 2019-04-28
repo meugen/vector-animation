@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/image_splash">
+
+    <target
+        android:animation="@animator/call_splash_first_orange_line"
+        android:name="first_orange_line"/>
+    <target
+        android:animation="@animator/call_splash_second_orange_line"
+        android:name="second_orange_line"/>
+    <target
+        android:animation="@animator/call_splash_third_orange_line"
+        android:name="third_orange_line"/>
+    <target
+        android:animation="@animator/call_splash_first_gray_line"
+        android:name="first_gray_line"/>
+    <target
+        android:animation="@animator/call_splash_second_gray_line"
+        android:name="second_gray_line"/>
+    <target
+        android:animation="@animator/call_splash_third_gray_line"
+        android:name="third_gray_line"/>
+</animated-vector>

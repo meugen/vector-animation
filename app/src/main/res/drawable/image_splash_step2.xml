@@ -21,7 +21,7 @@
         android:name="third_orange_line"
         android:fillColor="#FF5F00"
         android:fillType="evenOdd"
-        android:pathData="M-304.727,319.084l157.78,93.206l534.235,-412.289l-69.473,0.658z"
+        android:pathData="M-304.727,319.084l157.78,93.206l0,0l-157.78,-93.206z"
         android:strokeWidth="1"
         android:strokeColor="#00000000" />
     <path
@@ -38,7 +38,7 @@
         android:fillAlpha="0.33365884"
         android:fillColor="#191919"
         android:fillType="evenOdd"
-        android:pathData="M238.361,0.936l62.325,-0.274l287.15,136.184l-12.548,57.736z"
+        android:pathData="M238.361,0.936l62.325,-0.274l0,0l-62.325,0.274z"
         android:strokeWidth="1"
         android:strokeAlpha="0.33365884"
         android:strokeColor="#00000000" />
@@ -47,7 +47,7 @@
         android:fillAlpha="0.33365884"
         android:fillColor="#191919"
         android:fillType="evenOdd"
-        android:pathData="M317.209,1.227l69.225,-0.549l182.58,73.034l-49.147,21.691z"
+        android:pathData="M317.209,1.227l69.225,-0.549l0,0l-69.225,0.549z"
         android:strokeWidth="1"
         android:strokeAlpha="0.33365884"
         android:strokeColor="#00000000" />
