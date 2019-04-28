@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Vector animation</string>
+    <string name="button">Click me!</string>
 </resources>
