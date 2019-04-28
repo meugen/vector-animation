@@ -7,21 +7,21 @@
         android:name="first_orange_line"
         android:fillColor="#FF5F00"
         android:fillType="evenOdd"
-        android:pathData="M-439.489,161.8l-2.512,57.614l0,0l2.512,-57.614z"
+        android:pathData="M-439.489,161.8l-2.512,57.614l442.001,-146.22l0,-28.91z"
         android:strokeWidth="1"
         android:strokeColor="#00000000" />
     <path
         android:name="second_orange_line"
         android:fillColor="#FF5F00"
         android:fillType="evenOdd"
-        android:pathData="M-434.257,241.07l0,105.264l0,0l0,-105.264z"
+        android:pathData="M-434.257,241.07l0,105.264l434.257,-203.693l0,-57.562z"
         android:strokeWidth="1"
         android:strokeColor="#00000000" />
     <path
         android:name="third_orange_line"
         android:fillColor="#FF5F00"
         android:fillType="evenOdd"
-        android:pathData="M-304.727,319.084l157.78,93.206l0,0l-157.78,-93.206z"
+        android:pathData="M-304.727,319.084l157.78,93.206l146.947,113.404l0,-136.326z"
         android:strokeWidth="1"
         android:strokeColor="#00000000" />
     <path

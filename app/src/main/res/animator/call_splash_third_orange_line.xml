@@ -3,5 +3,5 @@
     android:duration="@integer/animation_duration"
     android:propertyName="pathData"
     android:valueType="pathType"
-    android:valueFrom="M-304.727,319.084l157.78,93.206l0,0l-157.78,-93.206z"
+    android:valueFrom="M-304.727,319.084l157.78,93.206l146.947,-113.404l0,-136.326z"
     android:valueTo="M-304.727,319.084l157.78,93.206l534.235,-412.289l-69.473,0.658z"/>
